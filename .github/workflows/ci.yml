@@ -14,7 +14,7 @@ jobs:
     with:
       language: 'python'
       python-version: '3.9'
-      report-language: 'English'
+      report-language: 'Spanish'
       project-path: ''
       requirements-path: ''
       build-configuration: 'Release'
